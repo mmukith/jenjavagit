@@ -1,4 +1,4 @@
-public class App 
+public class simpleJava 
 {
     public static void main( String[] args )
     {
